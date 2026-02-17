@@ -8,7 +8,7 @@ A cross-community platform with event discoverability, activity workflows, and f
 
 ## Current Projects
 
-🧭 **Liquid Spirit Web**  
+🧭 **[Liquid Spirit Web](https://liquidspirit.org)**  
 The core community platform.
 
 📱 **Liquid Spirit Mobile**
