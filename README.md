@@ -1,7 +1,7 @@
 Hi, I'm Rob 👋 📍 Melbourne | 🤖 AI-augmented Product Builder | 🚀 Liquid Spirit Founder/Lead Developer  
 JavaScript Node.js React.JS React Native Codex CLI macOS Web
 
-🍭 Building the **Liquid Spirit ecosystem**:  
+Building the **Liquid Spirit ecosystem**:  
 A cross-community platform with event discoverability, activity workflows, and full Baha'i community tooling and management.
 
 ---
