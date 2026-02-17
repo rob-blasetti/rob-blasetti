@@ -1,5 +1,11 @@
 Hi, I'm Rob 👋 📍 Melbourne | 🤖 AI-augmented Ecosystem Builder | 🚀 Liquid Spirit Founder/Lead Developer  
-JavaScript Node.js React.JS React Native Codex CLI macOS Web
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Web](https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 
 Building **Liquid Spirit **:
 A cross-community platform with event discoverability, activity workflows, and full Bahá’í community tooling and management.
