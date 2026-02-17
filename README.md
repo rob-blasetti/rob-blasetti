@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Rob 👋 📍 Melbourne | 🤖 AI-augmented Product Builder | 🚀 Liquid Spirit Founder/Lead Developer  
+JavaScript Node.js React.JS React Native Codex CLI macOS Web
 
-<!--
-**rob-blasetti/rob-blasetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🍭 Building the **Liquid Spirit ecosystem**:  
+A cross-community platform with event discoverability, activity workflows, and full Baha'i community tooling and management.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+
+🧭 **Liquid Spirit Web**  
+The core community platform.
+
+📱 **Liquid Spirit Mobile**
+Cross-platform React Native app syncing to the same backend.
+
+🌱 **Nuri (Mobile App)**
+A children’s learning app connected to Liquid Spirit.
+
+🛡 **Liquid Spirit Guardian (Mobile App)** [In Dev]
+Administrative tooling for Local Spiritual Assemblies.
