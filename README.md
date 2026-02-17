@@ -1,8 +1,8 @@
-Hi, I'm Rob 👋 📍 Melbourne | 🤖 AI-augmented Product Builder | 🚀 Liquid Spirit Founder/Lead Developer  
+Hi, I'm Rob 👋 📍 Melbourne | 🤖 AI-augmented Ecosystem Builder | 🚀 Liquid Spirit Founder/Lead Developer  
 JavaScript Node.js React.JS React Native Codex CLI macOS Web
 
-Building the **Liquid Spirit ecosystem**:  
-A cross-community platform with event discoverability, activity workflows, and full Baha'i community tooling and management.
+Building **Liquid Spirit **:
+A cross-community platform with event discoverability, activity workflows, and full Bahá’í community tooling and management.
 
 ---
 
@@ -20,4 +20,13 @@ Cross-platform iOS/Android app for administration members.
 🌱 **[Nuri (Mobile App)](https://www.learnnuri.com)**
 A learning app for Childrens Classes to assist the students in learning quotes using gamification.
 
-and many more
+📖 **Kali (Mobile App) [In Dev]**
+A forum-like social app for reviewing and discussing the Bahá’í Writings.
+
+and more
+
+---
+
+## Philosophy
+
+Build the tools to empower the beleivers to serve to their greatest capacity.
