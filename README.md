@@ -24,19 +24,7 @@ The core Baha'i community platform.
 📱 **[Liquid Spirit Mobile](https://play.google.com/store/apps/details?id=com.liquid_spirit_mobile_app&pli=1)**
 Cross-platform iOS/Android app for community members.
 
-🛡 **Liquid Spirit Guardian (Mobile App)** [In Dev]
-Cross-platform iOS/Android app for administration members.
-
 🌱 **[Nuri (Mobile App)](https://www.learnnuri.com)**
 A learning app for Childrens Classes to assist the students in learning quotes using gamification.
 
-📖 **Kali (Mobile App) [In Dev]**
-A forum-like social app for reviewing and discussing the Bahá’í Writings.
-
 and more
-
----
-
-## Philosophy
-
-Build the tools to empower the beleivers to serve to their greatest capacity.
